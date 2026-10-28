@@ -1,0 +1,6 @@
+{
+  "name": "MANAS MITRA — AI-Powered Mental Wellness and Healthcare Coordination Platform",
+  "description": "A comprehensive student mental wellness platform featuring AI-powered empathetic chat, mood tracking, self-care suite, Tele-MANAS crisis support, and counselor coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
